@@ -1,0 +1,4 @@
+# On ignore le fichier logo
+/images/logo1.png
+
+/images/*.jpg
